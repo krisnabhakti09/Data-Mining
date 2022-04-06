@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+Rusia,44,72000,No
+Korea,27,48000,Yes
+Amerika,30,54000,No
+Rusia,38,61000,No
+Korea,40,,Yes
+Amerika,35,58000,Yes
+Rusia,,52000,No
+Korea,48,79000,Yes
+Amerika,50,83000,No
+Korea,37,67000,Yes
